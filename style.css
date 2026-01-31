@@ -120,7 +120,8 @@ body {
 }
 
 .info-tittle {
-  margin: 0;
+  text-align: center;
+  margin: 0 auto;
   margin-bottom: 10px;
   font-size: 36px;
   color: #1f2937;
@@ -242,4 +243,5 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
+  text-align: center;
 }
